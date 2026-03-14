@@ -1,2 +1,5 @@
 venv/
 datasets/
+.env
+cleaned_datasets/*.geojson
+.ipynb_checkpoints/
